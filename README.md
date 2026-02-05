@@ -3,7 +3,7 @@
 An ongoing project for an offline, multimodal classroom assistant designed to support interactive and ethical learning environments.
 
 ## Overview
-OptoCS is an ongoing research and development project aimed at supporting teachers and students in creating more interactive and engaging classrooms. The system explores features such as presence assistance, automatic team organization, and interactive gesture-based educational experiences.
+OptoCS is an ongoing research and development project aimed at supporting teachers and students in creating more interactive and engaging classrooms. The system explores features such as presence assistance, automatic team organization, and interactive gesture-based educational experiences, including more in the future.
 
 OptoCS focuses on natural interaction through multimodal input while processing all data locally, ensuring an ethical and privacy-conscious design.
 
@@ -35,7 +35,7 @@ Ethical considerations are a core component of OptoCS.
 
 The system is designed to:
 - Operate fully offline, independent of online services for core features
-- Avoid storing biometric data by default
+- Avoid storing biometric data by default, only storing face mesh data if requested
 - Provide transparent and configurable data usage mechanisms
 - Allow opt-in access for experimental features
 
